@@ -1,0 +1,5 @@
+numpy==1.21.6
+opencv_python==4.7.0.68
+Pillow==9.4.0
+progress==1.6
+streamlit==1.16.0
