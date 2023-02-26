@@ -16,7 +16,7 @@ def load_video(video):
 
 
 def heatmap(capture, quality):
-    background_substractor = cv2.bgsegm.createBackgroundSubtractorMOG()
+    background_substractor = cv2.createBackgroundSubtractorMOG2()
     length = int(capture.get(cv2.CAP_PROP_FRAME_COUNT))
     bar = Bar('Processing Frames', max=length)
     first_iteration_indicator = 1
