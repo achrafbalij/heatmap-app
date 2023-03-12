@@ -4,7 +4,7 @@ This application has for a goal to show business or showroom owners how their cl
 
 **Clone this repository:**
 ```
-$ [git clone https://github.com/achrafbalij/heatmap-app/fraud_detection.git
+$ git clone https://github.com/achrafbalij/heatmap-app.git
 ```
 **install requirements:**
 ```
