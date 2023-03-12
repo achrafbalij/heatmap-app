@@ -13,6 +13,6 @@ pip install -r requirements.txt
 
 <h2>Example</h2>
 this app takes a video as input, and the output will be an image highlighting where people walked or areas that people have used most, as shown below:
-![image](https://user-images.githubusercontent.com/65752093/224566983-a585e629-0b2b-4d1c-937f-e57b775ff13e.png)
+<img src="https://user-images.githubusercontent.com/65752093/224566983-a585e629-0b2b-4d1c-937f-e57b775ff13e.png">
 
 The application is deployed on: https://heatmap-app.onrender.com/ 
